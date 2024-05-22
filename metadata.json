@@ -1,11 +1,11 @@
 {
-  "name": "BoedApeUpsideDown",
+  "name": "BoedApe",
   "symbol": "BOED",
-  "description": "BoedApe but UpsideDown",
+  "description": "Ape but Boed",
   "image": "https://raw.githubusercontent.com/Butwm/boedape-files/main/boedapeud.png?token=GHSAT0AAAAAACMXPCSB6WI3BMBQK3Y646X4ZSM5RJQ",
   "extensions": {
-    "website": "https://boedapeupsidedown.xyz",
-    "twitter": "https://x.com/BoedApeUD",
+    "website": "https://boedapeonsolana.xyz",
+    "twitter": "https://x.com/BoedApesolana",
     "telegram": "https://t.me/google"
   }
 }
